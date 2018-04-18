@@ -1,1 +1,1 @@
-The purpose of this project was to be able to extract the PMIDs that contain an abstract text summary for each case report from a huge XML file, which was downloaded directly from PubMed.gov 
+The purpose of this project was to be able to extract the PMIDs that contain an abstract text summary and the abstract text summary itself for each case report from a big XML file downloaded directly from PubMed.gov by specifying case reports as the publication type.
